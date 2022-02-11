@@ -1,0 +1,11 @@
+{
+  "name": "curso-closures-scope",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edson J Vargas <edson.jhair@yahoo.com>",
+  "license": "MIT"
+}
